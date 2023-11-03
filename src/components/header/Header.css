@@ -1,0 +1,11 @@
+.main-container{
+    display: flex;
+    background-color: aquamarine;
+    margin: 0px;
+    padding: 0px;
+}
+
+.taskHiveLogo{
+    width:30px;
+}
+
